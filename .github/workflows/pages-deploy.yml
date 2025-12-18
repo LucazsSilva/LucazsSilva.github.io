@@ -50,7 +50,7 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
-      - name: Test site
+      - name: Blog MR.F4rmer
         run: |
           bundle exec htmlproofer _site \
             \-\-disable-external \
