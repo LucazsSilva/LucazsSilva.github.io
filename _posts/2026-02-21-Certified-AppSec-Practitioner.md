@@ -51,6 +51,7 @@ Essa pergunta é relativa. Pra mim valeu a pena, mas o valor depende do que voc�
 
 
 
-### Tópicos estudados
-- [Input Validation Mechanisms]({% post_url cap_topicos/2026-02-21-cap-input-validation %})
-- [Blacklist & Whitelist]({% post_url cap_topicos/2026-02-21-cap-blacklist-whitelist %})
+# Tópicos estudados
+- [Entendendo Input Validation]({% post_url cap_topicos/2026-02-21-cap-input-validation %})
+- [Blacklist & Whitelist]({% post_url cap_topicos/2026-02-21-cap-input-validation %})
+blacklist-whitelist
