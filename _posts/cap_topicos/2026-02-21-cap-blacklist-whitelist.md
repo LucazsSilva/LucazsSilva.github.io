@@ -30,7 +30,7 @@ Esse metódo não é o dos melhores para realizar validações e o metódo comum
 '|%|--|;|/⧹∗|⧹⧹⧹∗|_|⧹[|@|xp_
 ```
 
-***Lembrando que cuidado ao usar Regex e se atente no uso dele. Expliquei sobre em <link post>***
+***Lembrando que cuidado ao usar Regex e se atente no uso dele. Expliquei sobre em [Entendendo Input Validation]({% post_url cap_topicos/2026-02-21-cap-input-validation %})***
 
 - Whitelist
 
@@ -39,7 +39,7 @@ A whitelist tem o objetivo de verificar se os dados enviados correspodem ao que 
 - Tipo de dado: O dado é realmente o que a aplicação espera? Se ele deve ser númerico ou não, se deveria ser número positivo.
 - Limite de caracteres: Um campo com limite de caractares evita entradas excessiva no campo
 
-```java
+```html
 <form action="/login.php">
   <label for="username">Username:</label>
   <input type="text" id="username" name="username" maxlength="10">
