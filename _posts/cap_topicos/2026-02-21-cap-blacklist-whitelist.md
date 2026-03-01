@@ -13,20 +13,20 @@ A blacklist envolve bloquear caracteres que possam causar uma possível explora�
 
 Por exemplo:
 
-```java
+```md
 <script>, SELECT, '
 ```
 
 Mesmo que tenhamos realizado um filtro para “bloquear” esses caracteres, o atacante pode usar, por exemplo, um encode de url
 
-```java
+```md
 <script>alert(1)</script> //Sem urlencode
 %3Cscript%3Ealert%281%29%3C%2Fscript%3E //Com urlencode
 ```
 
 Esse metódo não é o dos melhores para realizar validações e o metódo comum seria o uso de **regex (Expressões Regulares)**
 
-```java
+```md
 '|%|--|;|/⧹∗|⧹⧹⧹∗|_|⧹[|@|xp_
 ```
 

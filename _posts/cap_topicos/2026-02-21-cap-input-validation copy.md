@@ -22,7 +22,7 @@ Algumas maneiras de realizar as validações na aplicação.
 
 A OWASP **(Open Worldwide Application Security Project)** faz um alerta sobre o uso de regex. Ao usar regex na sua validação, fique ciente de aplicar em toda a string. Usando o “^” para podermos percorrer do início ao fim e “$” para a selecionarmos a string inteira.
 
-```java
+```md
 /[0-9]+/ -> forma errada
 /^[0-9]+$/ -> forma correta
 ```
@@ -46,7 +46,7 @@ Remover `javascript:` de uma URL.
 
 Por exemplo, criar uma “whitelist” de extensões
 
-```java
+```py
 allowed_extensions = ('jpg', 'png')
 ```
 
