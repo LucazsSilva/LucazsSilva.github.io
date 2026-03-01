@@ -33,10 +33,6 @@ Ou outro exemplo, seria um de busca, onde teriamos a seguinte url:
 https://javalicansado.com/procurar?item=<script>alert(1)</script>
 ```
 
-Iremos ter uma reposta assim na aplicação
-
-![image.png](attachment:58377324-bb05-4aef-bfc6-93d346cba29d:image.png)
-
 ### Stored XSS
 
 O Stored XSS surge quando é enviado um script e é armazenado no servidor, como em um banco de dados. Imagine um fórum e nele há um campo de comentários. O invasor pode simplesmente carregar um xss armazenado e deixar nesse campo. Sempre que um usuário acessar a página que exibe esses dados, o script será executado no navegador dele.
