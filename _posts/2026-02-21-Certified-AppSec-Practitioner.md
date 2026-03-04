@@ -55,3 +55,5 @@ Essa pergunta √© relativa. Pra mim valeu a pena, mas o valor depende do que voc√
 - [Entendendo Input Validation]({% post_url cap_topicos/2026-02-21-cap-input-validation %})
 - [Blacklist & Whitelist]({% post_url cap_topicos/2026-02-21-cap-blacklist-whitelist %})
 - [Cross-Site Scripting]({% post_url cap_topicos/2026-03-01-cross-site-scripting %})
+- [SQL Injection]({% post_url cap_topicos/2026-03-03-sql-injection %})
+
