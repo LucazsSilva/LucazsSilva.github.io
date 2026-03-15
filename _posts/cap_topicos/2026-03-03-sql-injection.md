@@ -66,10 +66,10 @@ O atacante realiza uma injeção com uma condição que, se for verdadeiro, faz 
 
 ### Prevenção
 
-- **Query Parameterization** - 
-- Input Validation
+- Query Parameterization - É uma técnica que visa seperar consultas SQL de valores de entrada do usuário.
+- Input Validation - [Entendendo Input Validation]({% post_url cap_topicos/2026-02-21-cap-input-validation %})
 - Implementação de whitelist
-- Usar WAF (Web Application Firewall) -
+- Usar WAF (Web Application Firewall) - O WAF vai atuar como barreira entre a aplicação e a internet. Ele vai inspecionar e bloquear request recebidas em busca de uma assinatura, sequência de caracteres ou algum padrão malicioso e usando o aprendizado de máquina. 
 
 
 **Referências**: 
