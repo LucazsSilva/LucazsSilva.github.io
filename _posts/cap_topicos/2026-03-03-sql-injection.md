@@ -61,8 +61,9 @@ Essa vulnerabilidade permite que o atacante manipule consultas SQL no backend, p
 
 O atacante realiza uma injeção com uma condição que, se for verdadeiro, faz o banco executar uma função de atraso na consulta atual (como SLEEP(tempo)). Caso a resposta demore o tempo informado, isso indica que a condição foi avaliada como uma possibilidade de exploração.
 
-> **Além desses que expliquei, existem outras variações e técnicas que dependem do contexto da aplicação e do banco de dados utilizado.**
->
+
+> Além desses que expliquei, existem outras variações e técnicas que dependem do contexto da aplicação e do banco de dados utilizado.
+{: .prompt-tip }
 
 ### Prevenção
 
