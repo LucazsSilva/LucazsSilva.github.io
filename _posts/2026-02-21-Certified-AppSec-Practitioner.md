@@ -56,4 +56,4 @@ Essa pergunta √© relativa. Pra mim valeu a pena, mas o valor depende do que voc√
 - [Blacklist & Whitelist]({% post_url cap_topicos/2026-02-21-cap-blacklist-whitelist %})
 - [Cross-Site Scripting]({% post_url cap_topicos/2026-03-01-cross-site-scripting %})
 - [SQL Injection]({% post_url cap_topicos/2026-03-03-sql-injection %})
-
+- [XXE External Entity Attack]({% post_url cap_topicos/2026-03-19-xxe %})
