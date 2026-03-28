@@ -21,15 +21,14 @@ A certificação é de nível **intradutório (entry-level)**, focada em validar
 
 ### Formato do Exame
 
-- **Tipo:** Questões de múltipla escolha (teóricas e baseadas em cenários).
+- **Tipo:** Questões de múltipla escolha.
 - **Duração:** 60 minutos.
-- **Modalidade:** Online, sob demanda (pode ser feito a qualquer hora) e monitorado (proctored).
+- **Modalidade:** Online e monitorado
 
 ### Critérios de Aprovação
 
-- **Pass:** Mínimo de **60%** de acerto.
-- **Mérito:** Acima de **75%** de acerto.
-- **Reprovação:** Em caso de falha, é necessário comprar um novo voucher (não há "retake" gratuito).
+- **Falha:** Mínimo de **60%** de acerto.
+- **Reprovação:** Em caso de falha, é necessário comprar um novo voucher.
 
 ### Requisitos e Regras
 
@@ -50,10 +49,10 @@ Essa pergunta é relativa. Pra mim valeu a pena, mas o valor depende do que voc�
 [https://pentestingexams.com/certifications/essentials/certified-application-security-practitioner/](https://pentestingexams.com/certifications/essentials/certified-application-security-practitioner/)
 
 
-
 # Tópicos estudados
 - [Entendendo Input Validation]({% post_url cap_topicos/2026-02-21-cap-input-validation %})
 - [Blacklist & Whitelist]({% post_url cap_topicos/2026-02-21-cap-blacklist-whitelist %})
 - [Cross-Site Scripting]({% post_url cap_topicos/2026-03-01-cross-site-scripting %})
 - [SQL Injection]({% post_url cap_topicos/2026-03-03-sql-injection %})
 - [XXE External Entity Attack]({% post_url cap_topicos/2026-03-19-xxe %})
+- [Cross-Site Request Forgery]({% post_url cap_topicos/2026-03-28-csrf %})
