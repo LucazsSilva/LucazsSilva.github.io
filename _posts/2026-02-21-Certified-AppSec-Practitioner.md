@@ -45,6 +45,11 @@ Acredito que ela não tenha um grande valor no mercado (não vi nenhuma vaga sol
 
 Essa pergunta é relativa. Pra mim valeu a pena, mas o valor depende do que você busca no momento.
 
+### Ponto
+
+Essas notas que fiz não é um estudo aprofundado, pois a prova em si não cobra muito da cada tema, ela quer saber se você sabe o conceito.
+
+
 - Links
 [https://pentestingexams.com/certifications/essentials/certified-application-security-practitioner/](https://pentestingexams.com/certifications/essentials/certified-application-security-practitioner/)
 
