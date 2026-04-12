@@ -2,6 +2,7 @@
 
 source "https://rubygems.org"
 
+gem "jekyll", "~> 4.3"
 gem "jekyll-theme-chirpy", "~> 7.4", ">= 7.4.1"
 
 gem "html-proofer", "~> 5.0", group: :test
@@ -12,3 +13,4 @@ platforms :windows, :jruby do
 end
 
 #gem "wdm", "~> 0.1.1", :platforms => :windows
+
