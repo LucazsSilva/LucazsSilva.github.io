@@ -62,3 +62,4 @@ Essas notas que fiz não é um estudo aprofundado, pois a prova em si não cobra
 - [XXE External Entity Attack]({% post_url cap_topicos/2026-03-19-xxe %})
 - [Cross-Site Request Forgery]({% post_url cap_topicos/2026-03-28-csrf %})
 - [Encoding, Encryption and Hashing]({% post_url cap_topicos/2026-04-12-eeh %})
+- [Authentication Related Vulnerabilities]({% post_url cap_topicos/2026-04-18-authentication-related-vulnerabilities %})
