@@ -55,6 +55,7 @@ Essas notas que fiz não é um estudo aprofundado, pois a prova em si não cobra
 
 
 # Tópicos estudados
+### [Sobre a Certificação]({% post_url cap_topicos/2026-05-01-certificacao %})
 - [Entendendo Input Validation]({% post_url cap_topicos/2026-02-21-cap-input-validation %})
 - [Blacklist & Whitelist]({% post_url cap_topicos/2026-02-21-cap-blacklist-whitelist %})
 - [Cross-Site Scripting]({% post_url cap_topicos/2026-03-01-cross-site-scripting %})
